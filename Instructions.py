@@ -15,7 +15,7 @@
 #***If you were assigned a special team, then please click on the "merge_conflict.py" file!!!
 
 #3) On the left, you'll find a file named "Career_Descriptions" which includes a list of descriptions 
-#of each of the career paths we discussed. Copy the one you were assigned and paste them into the 
+#of each of the career paths we will discuss. Copy the one you were assigned and paste them into the 
 # file you created/is on.
 
 #4) Now, get ready to save your work and push them into your branch.

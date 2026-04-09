@@ -12,7 +12,7 @@
 
 #2) In your branch, create a new file. Ex: Instructions.py.
     #Don't forget the .py!
-#***If you were assigned a special team, then please click on the "merge_conflict.py" file!!!
+#***If you were assigned a special team, please click on the "merge_conflict.py" file!!!
 
 #3) On the left, you'll find a file named "Career_Descriptions" which includes a list of descriptions 
 #of each of the career paths we will discuss. Copy the one you were assigned and paste them into the 

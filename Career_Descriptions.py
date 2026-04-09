@@ -10,3 +10,14 @@
 #protects an organization’s computer networks, systems, and data from cyberattacks 
 #by monitoring for, detecting, and responding to threats in real time.
 
+#Game Developer:
+#creates video games, specializing in programming, design, and art. Creates game logic and
+#implements visual designs.
+
+#Machine Learning Engineer:
+#builds, trains, deploys, and maintains AI models to increase productivity.
+#Improves existing systems.
+
+#DevOps Engineer
+#bridge between IT and software development. Focuses on automating, streamlining,
+#and optimizing the software development life cycle.

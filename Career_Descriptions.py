@@ -1,25 +1,39 @@
-#Blockchain Developer:
-#a software developer who focuses on blockchain technology as they 
-#program, develop, and test software and systems.
+# print("Blockchain Developer:")
+# print("a software developer who focuses on blockchain technology as they")
+# print("program, develop, and test software and systems.")
 
-#Product Manager:
-#bridges technical engineering teams and business strategy, 
-#defining product vision, roadmap, and features.
+# print("Product Manager:")
+# print("bridges technical engineering teams and business strategy,")
+# print("defining product vision, roadmap, and features.")
 
-#Cybersecurity Analyst:
-#protects an organization’s computer networks, systems, and data from cyberattacks 
-#by monitoring for, detecting, and responding to threats in real time.
+# print("Cybersecurity Analyst:")
+# print("protects an organization’s computer networks, systems, and data from cyberattacks") 
+# print("by monitoring for, detecting, and responding to threats in real time.")
 
-#Game Developer:
-#creates video games, specializing in programming, design, and art. Creates game logic and
-#implements visual designs.
+# print("Game Developer:")
+# print("creates video games, specializing in programming, design, and art.") 
+# print("Creates game logic and implements visual designs.")
 
-#Machine Learning Engineer:
-#builds, trains, deploys, and maintains AI models to increase productivity.
-#Improves existing systems.
+# print("Machine Learning Engineer:")
+# print("builds, trains, deploys, and maintains AI models to increase productivity.")
+# print("Improves existing systems.")
 
-#DevOps Engineer
-#bridge between IT and software development. Focuses on automating, streamlining,
-#and optimizing the software development life cycle.
+# print("DevOps Engineer:")
+# print("bridge between IT and software development. Focuses on automating, streamlining,")
+# print("and optimizing the software development life cycle.")
 
-#blah
+# print("Software Engineer:")
+# print("Design, build, and maintain software applications.")
+
+# print("UI/UX Designer:")
+# print("create, design, and implement functional digital products.")
+
+# print("Mobile App Developer:")
+# print("designs, develops, and maintain applications for smartphones and other mobile devices.")
+
+# print("Embedded Systems Engineer:")
+# print("Bridge between software and physical components. Designs full body systems.")
+
+# print("Quantitative Developer:")
+# print("develop, implement, and maintain quantitative models.")
+# print("Implement mathematical models into high-performance code.")

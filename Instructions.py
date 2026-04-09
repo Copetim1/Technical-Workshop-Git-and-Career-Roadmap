@@ -35,6 +35,3 @@
 #7) In order to update your main, use these commands in the Terminal:
     #git checkout main
     #git pull origin main
-
-#Optional Cool Visual:
-    #git log --oneline --graph --all
